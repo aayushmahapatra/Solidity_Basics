@@ -1,4 +1,4 @@
-# Solidity_Basics
+## Solidity_Basics
 
 > This repository contains all the code used in the Solidity Session.
 
